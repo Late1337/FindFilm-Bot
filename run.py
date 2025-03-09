@@ -9,7 +9,7 @@ from app.keyboards import MOVIE_HEROES, MOVIE_HEROES_BUTTONS
 
 bot = Bot(token=confyg.TOKEN)
 dp = Dispatcher()
-API = "238a2571"
+API = "23871"
 
 # словник з кодами для пошуку фільму
 MOVIE_CODES = {
